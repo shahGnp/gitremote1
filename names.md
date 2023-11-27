@@ -4,3 +4,4 @@
 |--------------|----------------------------------------|--------------------------|
 | Gaurav Shah  | gaurav.shah@sagarmatha.edu.np          | shahGnp                  |
 | Roshan Ojha  | 076bct036.Roshan@sagarmatha.edu.np     | roshan-ojha              |
+| COESIS  | coesis@sagarmatha.edu.np     | coesis-np             |
